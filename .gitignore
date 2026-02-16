@@ -1,0 +1,12 @@
+notepad .gitignore
+```
+
+**When Notepad opens, click "Yes" to create new file, then paste:**
+```
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+.env
+.env.local

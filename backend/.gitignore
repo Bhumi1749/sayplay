@@ -1,0 +1,15 @@
+notepad backend\.gitignore
+```
+
+**Paste:**
+```
+target/
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.db
+*.h2.db
+*.log
+*.class
